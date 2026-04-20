@@ -58,25 +58,3 @@ Lumina Studio is an AI-powered product photography and marketing poster generati
    - (Optional) Provide a custom override prompt (e.g., "Add dramatic purple rim lighting").
 4. **Generate**: Click "Generate 2 Posters" to process.
 5. **Download**: Hover over your favorite results and click "Download Poster" to save the high-res images.
-
-## Screenshots
-
-<img width="1859" height="755" alt="image" src="https://github.com/user-attachments/assets/5bb80541-1345-4f25-a022-7133f7be170d" />
-
----
-<img width="671" height="678" alt="image" src="https://github.com/user-attachments/assets/a355ee9a-bfc9-40bf-9450-3da009c35d55" />
-
----
-
-
-
-<img width="637" height="704" alt="image" src="https://github.com/user-attachments/assets/c4fbb207-a349-422a-aee9-571243831f81" />
-
-
----
-
-<img width="784" height="1360" alt="Gemini_Generated_Image_4vcp9u4vcp9u4vcp" src="https://github.com/user-attachments/assets/9620aa9e-4722-4d97-ba03-cc92465433bc" />
-
----
-<img width="896" height="1152" alt="luxe-shot-asset-2 (1)" src="https://github.com/user-attachments/assets/a625970e-cfcb-491a-b31c-967f5b4a9564" />
-
