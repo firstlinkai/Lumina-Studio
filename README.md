@@ -1,6 +1,12 @@
+<img width="1376" height="768" alt="Lumina_Studio_transformation_seq…_202606030042" src="https://github.com/user-attachments/assets/6bbc4221-5e98-4bc1-b394-6d01ed4c5ba7" />
+
+
 # Lumina Studio
 
 Lumina Studio is an AI-powered product photography and marketing poster generation platform. It allows users to upload a single product image (with a transparent background) and instantly generate high-end, stylistically diverse marketing assets with custom text overlays. 
+
+<img width="1024" height="1024" alt="Lumina_Studio_AI_logo_202606030041" src="https://github.com/user-attachments/assets/5b2ab209-0b9d-42b6-b922-9e870e3113fb" />
+
 
 ## Features
 
